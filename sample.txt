@@ -1,2 +1,2 @@
 Den con khi cung hieu duoc lenh git
-updated : dang ky thay doi trong index
+updated : dang ky thay doi trong file index
