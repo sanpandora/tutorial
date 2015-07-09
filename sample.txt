@@ -1,3 +1,4 @@
 Den con khi cung hieu duoc lenh git
 updated : dang ky thay doi trong file index
 updated 3: dang ky thay doi trong file index
+pull: Lay noi dung cua remote repository
